@@ -6,10 +6,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>AccountsController</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>PublicationsController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -33,14 +29,6 @@
     </objectPermissions>
     <tabVisibilities>
         <tab>Publication__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>Reactive_Components_Test</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>References</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

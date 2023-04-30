@@ -8,6 +8,6 @@
     </targets>
     <targetConfigs>
         <targetConfig targets="lightning__FlowScreen">
-            <property name="publishesWeekends" label="List Size" type="Boolean" role="outputOnly"/>
+            <property name="publishesWeekends" label="Publishes Weekends" type="Boolean" role="outputOnly"/>
        </targetConfig>
     </targetConfigs></LightningComponentBundle>
